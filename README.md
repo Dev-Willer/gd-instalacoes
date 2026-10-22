@@ -21,3 +21,5 @@ O pacote completo com as fotos está disponível no arquivo ZIP fornecido na con
 npm install
 npm run dev
 ```
+## Assets check
+Galeria confirmada no repositório: fachada.webp, paisagismo.webp, perfil-led.webp, luminarias.webp, instalacao-aparente.webp e galpao.webp. Se o site exibir imagens antigas/quebradas, publicar o commit mais recente de main no Cloudflare.
